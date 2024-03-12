@@ -1,0 +1,3 @@
+AUTOMAKE_OPTIONS=foreign
+bin_PROGRAMS=example
+test_SOURCES=example.c
